@@ -1,0 +1,28 @@
+{
+  "name": "pemulung-surya",
+  "version": "1.0.0",
+  "description": "hanya paper hand pemburu suya sebatang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathjade/pemulung-surya.git"
+  },
+  "keywords": [
+    "pemulung"
+  ],
+  "author": "kathjade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathjade/pemulung-surya/issues"
+  },
+  "homepage": "https://github.com/kathjade/pemulung-surya#readme",
+  "dependencies": {
+    "bocil-kematian": "^1.0.0"
+  },
+  "devDependencies": {
+    "kucing-hitam": "github:jalu017/kucing-hitam"
+  }
+}
