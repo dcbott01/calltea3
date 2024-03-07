@@ -1,5 +1,5 @@
 {
-  "name": "pemulung-surya",
+  "name": "calltea3",
   "version": "1.0.1",
   "description": "hanya paper hand pemburu suya sebatang",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kathjade/pemulung-surya.git"
+    "url": "https://github.com/dcbott01/calltea3.git"
   },
   "keywords": [
     "pemulung"
   ],
-  "author": "kathjade",
+  "author": "dcbott01",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kathjade/pemulung-surya/issues"
+    "url": "https://github.com/dcbott01/calltea3/issues"
   },
-  "homepage": "https://github.com/kathjade/pemulung-surya#readme",
+  "homepage": "https://github.com/dcbott01/calltea3#readme",
   "dependencies": {
     "bocil-kematian": "^1.0.0"
   },
